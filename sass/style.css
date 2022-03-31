@@ -1,0 +1,51 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Ubuntu", sans-serif;
+}
+
+body {
+  background-color: #fabb2c;
+  font-family: monospace;
+}
+body h1 {
+  text-align: center;
+  margin: 20px 0;
+  color: #2b3282;
+}
+body .card {
+  background-color: #2b3282;
+  border-radius: 20px;
+  width: 300px;
+  text-align: center;
+  margin: 0 auto;
+}
+body .card .list {
+  text-align: center;
+  padding: 20px;
+  list-style: none;
+}
+body .card .list img {
+  border-radius: 50%;
+  border: 2px solid wheat;
+}
+body .card .list h2 {
+  font-size: 16px;
+  color: #e1e4fe;
+  letter-spacing: 1px;
+  margin: 10px auto;
+}
+body .card .list p {
+  color: #e1e4fe;
+}
+body .card .list button {
+  padding: 5px;
+  margin: 15px auto 0 auto;
+  background-color: #fabb2c;
+  border-radius: 5px;
+  border: 1px solid #fabb2c;
+  font-weight: 600;
+  color: #2b3282;
+  cursor: pointer;
+}/*# sourceMappingURL=style.css.map */
